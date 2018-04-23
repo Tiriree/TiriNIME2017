@@ -21,7 +21,7 @@ To connect the assembled BNO055 breakout to an Arduino Uno, follow the wiring di
   Using p5 speech written by Luke Dubois, Node socket to send text data to Max
 
 
-  **Special thanks
+  **Special thanks**
 
     Mimi Yin
     R Luke Dubois
@@ -34,4 +34,4 @@ To connect the assembled BNO055 breakout to an Arduino Uno, follow the wiring di
     Rodrigo Constanzo for karma~ tool
     All ITP residents
     All ITP family
-    and Sebastian Morales**
+    and Sebastian Morales
