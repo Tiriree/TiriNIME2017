@@ -1,7 +1,7 @@
 
 # Tiri NIME 2017
 
-<a href="http://xxx.tiri.xxx/wp-content/uploads/2017/12/IMG_6948.jpg" rel="attachment wp-att-1112"><img src="http://xxx.tiri.xxx/wp-content/uploads/2017/12/IMG_6948.jpg" alt="IMG_6948" width="2302" height="2300" class="alignleft size-full wp-image-1112" /></a>
+<a href="http://xxx.tiri.xxx/wp-content/uploads/2017/12/IMG_6948.jpg" rel="attachment wp-att-1112"><img src="http://xxx.tiri.xxx/wp-content/uploads/2017/12/IMG_6948-300x300.jpg" alt="IMG_6948" width="300" height="300" class="alignleft size-medium wp-image-1112" /></a>
 
 ## Headpiece
 *Gyro Sensor BNO055*
@@ -16,7 +16,7 @@ To connect the assembled BNO055 breakout to an Arduino Uno, follow the wiring di
 
 ## Score
 
-<a href="http://xxx.tiri.xxx/wp-content/uploads/2017/12/nimescreen.gif" rel="attachment wp-att-1119"><img src="http://xxx.tiri.xxx/wp-content/uploads/2017/12/nimescreen.gif" alt="nimescreen" width="640" height="321" class="alignleft size-full wp-image-1119" /></a>
+<a href="http://xxx.tiri.xxx/wp-content/uploads/2017/12/NIMEscreen.gif" rel="attachment wp-att-1120"><img src="http://xxx.tiri.xxx/wp-content/uploads/2017/12/NIMEscreen.gif" alt="NIMEscreen" width="320" height="160" class="alignleft size-full wp-image-1120" /></a>
 
   Using p5 speech written by Luke Dubois, Node socket to send text data to Max
 
