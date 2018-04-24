@@ -21,6 +21,7 @@ To connect the assembled BNO055 breakout to an Arduino Uno, follow the wiring di
   Using p5 speech written by Luke Dubois, Node socket to send text data to Max
   
   **Usage**
+        
         Clone Repository
         Run $ npm install socket.io --save
         Change Directory to scoreNime folder  
