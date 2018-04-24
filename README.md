@@ -31,7 +31,7 @@ To connect the assembled BNO055 breakout to an Arduino Uno, follow the wiring di
     Start $ node server.js
 
 
-  **Special thanks**
+## Special thanks
 
     Mimi Yin
     R Luke Dubois
