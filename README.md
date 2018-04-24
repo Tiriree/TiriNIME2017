@@ -19,6 +19,12 @@ To connect the assembled BNO055 breakout to an Arduino Uno, follow the wiring di
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2017/12/NIMEscreen.gif" rel="attachment wp-att-1120"><img src="http://xxx.tiri.xxx/wp-content/uploads/2017/12/NIMEscreen.gif" alt="NIMEscreen" width="320" height="160" class="alignleft size-full wp-image-1120" /></a>
 
   Using p5 speech written by Luke Dubois, Node socket to send text data to Max
+  
+  **Usage**
+  --Clone Repository
+  --Run $ npm install socket.io --save
+  --Change Directory to scoreNime folder
+  --Start $ node server.js
 
 
   **Special thanks**
