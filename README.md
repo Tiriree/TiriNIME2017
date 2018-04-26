@@ -3,6 +3,8 @@
 
 <a href="http://xxx.tiri.xxx/wp-content/uploads/2017/12/IMG_6948.jpg" rel="attachment wp-att-1112"><img src="http://xxx.tiri.xxx/wp-content/uploads/2017/12/IMG_6948-300x300.jpg" alt="IMG_6948" width="300" height="300" class="alignleft size-medium wp-image-1112" /></a>
 
+[http://xxx.tiri.xxx/tk1971/](http://xxx.tiri.xxx/tk1971/)
+
 ## Headpiece
 *Gyro Sensor BNO055*
 
