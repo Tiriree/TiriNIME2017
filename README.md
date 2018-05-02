@@ -18,6 +18,22 @@ To connect the assembled BNO055 breakout to an Arduino Uno, follow the wiring di
   [https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview](https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview)
 
   [https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module/pinouts](https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module/pinouts)
+  
+  
+## MAX/MSP
+
+Using [Karma~ tool](https://github.com/rconstanzo/karma) by Rodrigo Constanzo & raja & pete
+
+  **Usage**
+  
+    Download Karma~ tool from the link above 
+    To build karma~ on your machine, clone this git repo into the source directory of the Max SDK.
+
+    For example, if your Max SDK lives in ~/Documents/Max 7/Packages/max-sdk-7.1.0, 
+    then the path to the Xcode project for the      
+    1.1 (b) version of the external should be at 
+    ~/Documents/Max 7/Packages/max-sdk-7.1.0/source/karma/karma~1.1/karma~(b)/karma~.xcodeproj
+
 
 ## Score
 
